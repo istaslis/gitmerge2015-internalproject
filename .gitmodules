@@ -1,0 +1,3 @@
+[submodule "gitmerge2015-internalproject-docs"]
+	path = gitmerge2015-internalproject-docs
+	url = git@github.com:istaslis/gitmerge2015-internalproject-docs.git
